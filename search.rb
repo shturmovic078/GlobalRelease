@@ -5,7 +5,7 @@ require 'watir-webdriver'
 require 'webdriver-user-agent'
 require 'csv'
 require 'watir-scroll'
-require 'mechanize'
+#require 'mechanize'
 
 include Selenium
 
