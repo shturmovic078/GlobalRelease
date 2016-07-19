@@ -25,7 +25,7 @@ browser = Watir::Browser.new(:remote,
 
 counter=1
 
-csv_text = File.read('review.csv')
+csv_text = File.read('Register.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|  
 sleep 4
@@ -43,19 +43,19 @@ puts browser.title
 
 
 
-browser.screenshot.save  "Review/#{"Review_Page"}_"<<counter.to_s<<".png"
+browser.screenshot.save  "Register/#{"Register_Page"}_"<<counter.to_s<<".png"
 puts "Go to next line or stop"
 sleep 3
 counter+=1
 #Sort By
 browser.scroll.to :bottom
 
-browser.button(:id, "phdesktopbody_0_ibtnPreview").click
+browser.button(:id, "phdesktopbody_0_ibtnPRegister").click
 
 
 sleep 3
 counter+=1
-browser.screenshot.save  "Review/#{"Blank_Review"}_"<<counter.to_s<<".png"
+browser.screenshot.save  "Register/#{"Blank_Register"}_"<<counter.to_s<<".png"
 
 
 
