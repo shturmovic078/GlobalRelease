@@ -50,7 +50,7 @@ counter+=1
 #Sort By
 browser.scroll.to :bottom
 
-browser.button(:id, "phdesktopbody_0_ibtnPRegister").click
+browser.button(:id, "phdesktopbody_0_submit").click
 
 
 sleep 3
