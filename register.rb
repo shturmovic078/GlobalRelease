@@ -25,7 +25,7 @@ browser = Watir::Browser.new(:remote,
 
 counter=1
 
-csv_text = File.read('Register.csv')
+csv_text = File.read('register.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|  
 sleep 4
