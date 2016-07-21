@@ -83,7 +83,7 @@ sleep 4
 browser.screenshot.save "Login/#{"About to submit 4"}_"<<counter.to_s<<".png"
 sleep 4
 counter+=1
-browser.link(:href, "/en-us/editprofilepage").click
+browser.a(:id =>/HlinkEdit*/).when_present.click
 sleep 2
 browser.screenshot.save "Login/#{"About to submit 6"}_"<<counter.to_s<<".png"
 sleep 2
