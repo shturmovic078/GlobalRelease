@@ -48,7 +48,9 @@ puts "Go to next line or stop"
 counter+=1
 
 sleep 4
-browser.link(:href, "/en-us/resetpasswordpage").click
+
+
+browser.a(:id =>/forgotpassword*/).when_present.click
 sleep 4
 browser.text_field(:name => 'phdesktopbody_0$username').set 'albert.golubev@pkt.com'
 sleep 4
