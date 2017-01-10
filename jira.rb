@@ -34,7 +34,7 @@ loc1= "#{row['url']}"
 #loc2= "#{row['product']}"
 #loc3= "#{row['type']}"
 #loc4= "#{row['count']}"
-sleep 25
+sleep 1
 puts "15 to login"
 counter+=1
 puts loc1
