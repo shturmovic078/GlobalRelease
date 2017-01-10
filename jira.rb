@@ -25,7 +25,7 @@ browser.goto 'https://issues.nurun.com/secure/admin/EditCustomFieldOptions!defau
 counter = 0
 
 puts "30 to load"
-sleep 30
+sleep 35
 csv_text = File.read('list.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|  
@@ -41,8 +41,7 @@ puts loc1
 sleep 1
 puts counter
 
- 
-    browser.button(:name, "addValue").clear
+ browser.text_field(:name, "addValue").clear
     sleep 3
     browser.text_field(:name, "addValue").set loc1
     sleep 3
