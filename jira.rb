@@ -44,7 +44,7 @@ puts counter
  
     browser.button(:name, "addValue").clear
     sleep 3
-    browser.text_field(:name, "addValue").send_keys loc1
+    browser.text_field(:name, "addValue").set loc1
     sleep 3
     browser.button(:id, "add_submit").click
 
