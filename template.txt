@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cartier Mastercard Valentines</title>
+  <!-- styles will be inlined -->
+
+  <!-- styles will be embedded -->
+  <style type="text/css">
+    a {  outline: 0;  }
+    .full-width {  width: 600px;  }
+    p {  margin: 0;  padding: 0;  }
+    img {  margin: 0;  padding: 0;  border: 0;  }
+    table td{  border-collapse: collapse;  }
+    table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;}
+    td img {  vertical-align: bottom;  }
+    body {  margin: 0;  padding: 0;  font-family: Georgia, Arial, sans-serif !important;  -webkit-text-size-adjust: none;  background: #ffffff;  }
+    .contextualExtensionHighlight {  border: none !important;  cursor: none !important;  }
+    .ms-font-color-themePrimary {  color: white !important;  }
+    .ms-border-color-themePrimary {  border: none !important;  }
+    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
+    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
+    .appleLinksWhite a {  color: #ffffff !important;  text-decoration: none !important;  }
+    .appleLinksGrey a {  color: #9b9b9b !important;  text-decoration: none !important;  }
+    .mobile-only {  display: none;  }
+    .desktop-only {  display: block;  }
+
+    @media only screen and (max-width: 500px) {
+      .columns-container {
+        width: 320px !important;
+      }
+      .mobile-only {
+        display: block;
+      }
+      .desktop-only {
+        display: none;
+      }
+      .desktop-block {
+        display: inline-block !important;
+      }
+      *[class="break"] {
+        display: block;
+        height: 0;
+      }
+      .appleLinksGrey a {
+        color: #9b9b9b !important;
+        text-decoration: none !important;
+      }
+      .full-width {
+        width: 320px !important;
+      }
+      .site-table {
+        width: 320px !important;
+        display: block;
+      }
+      .siteLink01 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .siteLink02 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .siteLink03 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .IMG1{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG1_mob.jpg") !important;
+        width: 320px !important;
+        height: 332px !important;
+      }
+      .IMG2{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG2_mob.jpg") !important;
+        width: 320px !important;
+        height: 38px !important;
+      }
+      .IMG4a{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4a_mob.jpg") !important;
+        width: 320px !important;
+        height: 172px !important;
+      }
+      .IMG4b_01{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_01_mob.jpg") !important;
+        width: 320px !important;
+        height: 70px !important;
+      }
+      .IMG4b_02{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_02_mob.jpg") !important;
+        width: 320px !important;
+        height: 54px !important;
+      }
+      .IMG5a_01{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_01_mob.jpg") !important;
+        width: 320px !important;
+        height: 197px !important;
+      }
+      .IMG5a_02{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_02_mob.jpg") !important;
+        width: 320px !important;
+        height: 35px !important;
+      }
+      .IMG5b_01{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_01_mob.jpg") !important;
+        width: 320px !important;
+        height: 194px !important;
+      }
+      .IMG5b_02{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_02_mob.jpg") !important;
+        width: 320px !important;
+        height: 43px !important;
+      }
+      .IMG7a{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7a_mob.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .IMG7b{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7b_mob.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .IMG7c{
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7c_mob.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+
+      .social-spacer-left {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-spacer-left.jpg") !important;
+        width: 46px !important;
+        height: 26px !important;
+      }
+      .social-facebook {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-facebook.jpg") !important;
+        width: 41px !important;
+        height: 26px !important;
+      }
+      .social-twitter {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-twitter.jpg") !important;
+        width: 48px !important;
+        height: 26px !important;
+      }
+      .social-instagram {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-instagram.jpg") !important;
+        width: 47px !important;
+        height: 26px !important;
+      }
+      .social-youtube {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-youtube.jpg") !important;
+        width: 47px !important;
+        height: 26px !important;
+      }
+      .social-pinterest {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-pinterest.jpg") !important;
+        width: 40px !important;
+        height: 26px !important;
+      }
+      .social-spacer-right {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-spacer-right.jpg") !important;
+        width: 51px !important;
+        height: 26px !important;
+      }
+      .socialisation {
+        width: 320px !important;
+      }
+      .site-table {
+        width: 320px !important;
+      }
+      .footer-logo {
+        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-footer-logo.jpg") !important;
+        width: 320px !important;
+        height: 61px !important;
+      }
+    }
+
+  </style>
+  <!--[if IE]>
+  <style type="text/css">
+    .full-width {  width: 600px !important;  overflow: hidden;  }
+    .contextualExtensionHighlight {  border: none !important;  cursor: none !important;  }
+    .ms-font-color-themePrimary {  color: white !important;  }
+    .ms-border-color-themePrimary {  border: none !important;  }
+    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
+  </style>
+  <![endif]-->
+</head>
+<body style="margin: 0; padding: 0; font-family: Georgia, Arial, sans-serif; -webkit-text-size-adjust: none; background: none;">
+<table align="center" cellspacing="0" cellpadding="0" border="0" class="full-width site-table" style="width: 600px; background: none">
+
+  <tr bgcolor="#ffffff" style="border-color:#ffffff">
+    <td height="10" bgcolor="#ffffff" style="border-color:#ffffff; border-collapse: collapse;"></td>
+  </tr>
+  <tr bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
+    <!-- view email -->
+    <td align="center" style="color:#9B9B9B; border-collapse: collapse; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;" bgcolor="#ffffff">If you cannot see this e-mail, please <a href="#Mailing:HostedEmail#" target="_blank" style="color:#9B9B9B;font-family:Arial, Helvetica, sans-serif; text-decoration:underline;">click here</a>.</td>
+    <!-- view email -->
+  </tr>
+  <tr bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
+    <td height="10" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;"></td>
+  </tr>
+
+  <tr>
+    <td class="site-table">
+      <table cellpadding="0" cellspacing="0" border="0" width="600" align="center" style="background-color:WHITE;" bgcolor="white" class="columns-container site-table">
+        <tr>
+          <td class="site-table">
+            <a href="#" target="_blank">
+                <img class="IMG1" src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG1.jpg" width="600" height="476" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;">
+            </a>
+          </td>
+        </tr>
+      </table>
+      <table cellpadding="0" cellspacing="0" border="0" width="600" align="center" style="background-color:WHITE;" bgcolor="white" class="columns-container">
+        <tr>
+          <td class="site-table">
+            <a href="http://xyx.xyx.xy" class="" target="_blank" title="Discover The New Love Bracelet" style="margin: 0; padding: 0; border: 0; outline: 0;">
+              <img class="IMG2" src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG2.jpg" width="600" height="53" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+
+  <!-- BODY TEXT -->
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
+      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+        <tr bgcolor="#ffffff">
+          <td class="site-table" width="600" align="center" bgcolor="#ffffff">
+            <table cellspacing="0" cellpadding="0" border="0" align="center">
+              <tr>
+                <td valign="top" class="siteLink02" bgcolor="#ffffff">
+                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4a.jpg" class="IMG4a" width="300" height="278" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                </td>
+                <td valign="top" class="siteLink01" bgcolor="#ffffff">
+                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_01.jpg" class="IMG4b_01" width="300" height="165" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Shop The Love Collection" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_02.jpg" class="IMG4b_02" width="300" height="113" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- BODY CTA-->
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
+      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+        <tr bgcolor="#ffffff">
+          <td class="site-table" width="600" align="center" bgcolor="#ffffff">
+            <table cellspacing="0" cellpadding="0" border="0" align="center">
+              <tr>
+                <td valign="top" class="siteLink02" bgcolor="#ffffff">
+                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_01.jpg" class="IMG5a_01" width="302" height="349" alt="Watch The Film" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Watch The Film" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_02.jpg" class="IMG5a_02" width="302" height="49" alt="Watch The Film" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+                </td>
+                <td valign="top" class="siteLink01" bgcolor="#ffffff">
+                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_01.jpg" class="IMG5b_01" width="298" height="349" alt="Shop The Valentine Selection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Shop The Valentine Selection" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_02.jpg" class="IMG5b_02" width="298" height="49" alt="Shop The Valentine Selection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+
+  <!-- COLLECTIONS -->
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#ffffff" style="border-color:#000000; background-color: #000000; border-collapse: collapse;">
+      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+        <tr bgcolor="#ffffff">
+          <td class="site-table" width="600" align="center" bgcolor="#ffffff">
+            <table cellspacing="0" cellpadding="0" border="0" align="center">
+              <tr>
+                <td valign="top" class="siteLink01" bgcolor="#ffffff">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Find A Boutique" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7a.jpg" class="IMG7a" width="199" height="210" alt="Find A Boutique" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+
+                </td>
+                <td valign="top" class="siteLink02" bgcolor="#ffffff">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Book An Appointment" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7b.jpg" class="IMG7b" width="199" height="210" alt="Book An Appointment" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+                </td>
+                <td valign="top" class="siteLink03" bgcolor="#ffffff">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Collections" style="outline: 0;">
+                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7c.jpg" class="IMG7c" width="202" height="210" alt="Collections" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr bgcolor="#ffffff">
+    <td height="30" bgcolor="#ffffff"></td>
+  </tr>
+
+  <!--SOCIAL-->
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#ffffff">
+      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+        <tr bgcolor="#ffffff">
+          <!--Social : spacer left-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-spacer-left.jpg" class="social-spacer-left" width="171" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
+          </td>
+
+          <!--Social : Facebook-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://www.facebook.com/Cartier" target="_blank" title="Facebook">
+              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-facebook.jpg" class="social-facebook" width="43" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="facebook">
+            </a>
+          </td>
+
+          <!--Social : Twitter-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="https://twitter.com/Cartier" target="_blank" title="Twitter">
+              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-twitter.jpg" class="social-twitter" width="57" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="twitter">
+            </a>
+          </td>
+
+          <!--Social : Instragram-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://instagram.com/Cartier" target="_blank" title="Instagram">
+              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-instagram.jpg" class="social-instagram" width="53" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="instagram">
+            </a>
+          </td>
+
+          <!--Social : Youtube-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://www.youtube.com/user/Cartier" target="_blank" title="Youtube">
+              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-youtube.jpg" class="social-youtube" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="youtube">
+            </a>
+          </td>
+
+          <!--Social : Pinterest-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://pinterest.com/cartier/" target="_blank" title="Pinterest">
+              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-pinterest.jpg" class="social-pinterest" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="pinterest">
+            </a>
+          </td>
+
+          <!--Social : spacer right-->
+          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
+            <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-spacer-right.jpg" class="social-spacer-right" width="172" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
+          </td>
+
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr bgcolor="#ffffff">
+    <td height="30" bgcolor="#ffffff"></td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#ffffff">
+      <div align="center" style="color:#9b9b9b; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px; line-height: 12px; display: block;">
+        <div class="footer-content" size="1px" color="#9b9b9b" face="Arial, Helvetica, sans-serif"><span style="color:#9b9b9b; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;"><div class="desktop-block" style="display: block;">This e-mail was sent to you on behalf of Cartier International.</div>
+        If you received this message in error or no longer wish to receive the Cartier Newsletter, please
+				<a href="http://xyx.xyx.xy" style="outline: 0; color: #9b9b9b; font-family: Arial, Helvetica, sans-serif; text-decoration: none;">
+					<span class="text-underline" style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;">click here</span>
+				</a> to unsubscribe. <br>
+        <br>
+        To contact Cartier please write to: <br>
+        <span class="">Cartier CRM Department,</span> <span class="appleLinksGrey">645 Fifth Avenue, New York, NY 10022</span> or<br>
+        <a style="outline: 0; text-decoration: underline; text-decoration-color: #9b9b9b; color: #9b9b9b;" href="mailto:contact.na@cartier.com">
+			 <span class="text-underline" style="font-family: Arial, Helvetica, sans-serif; color: #9b9b9b; font-size: 10px; text-decoration: underline; text-decoration-color: #9b9b9b;">contact.na@cartier.com</span></a><br>
+        <br>
+        <a href="http://xyx.xyx.xy" target="_blank" style="outline: 0;"><span style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;" class="text-underline">Privacy notice</span></a> | Copyright&nbsp;&#169;&nbsp;Cartier&nbsp;2017</span></div> <br>
+        <br>
+      </div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/footer-logo.jpg" class="footer-logo" width="600" height="60" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
+    </td>
+  </tr>
+</table>
+</body>
+</html>

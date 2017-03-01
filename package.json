@@ -1,0 +1,24 @@
+{
+  "name": "global",
+  "version": "1.0.0",
+  "description": "chrome",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.27.2",
+    "selenium-chromedriver": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shturmovic078/GlobalRelease.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shturmovic078/GlobalRelease/issues"
+  },
+  "homepage": "https://github.com/shturmovic078/GlobalRelease#readme"
+}

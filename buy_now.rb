@@ -49,23 +49,27 @@ if browser.select_list(:id=> 'phdesktopbody_0_phdesktopproductprimarycontentarea
 		browser.button(:id=>'phdesktopbody_0_phdesktopproductprimarycontentarea_0_anchrBuyNowLeft').click
 		sleep 7
 
-		if browser.text.include?("To purchase this item please go directly to your preferred online retailer or visit a store near you.").should == true
+			if browser.text.include?("To purchase this item please go directly to your preferred online retailer or visit a store near you.").should == true
 
 				browser.screenshot.save  "NoItem/#{browser.title}_"<<Array.new(32){rand(36).to_s(36)}.join<<".png"
 
-			else 
+				else 
 
 				browser.screenshot.save  "BuyNow/#{browser.title}_"<<Array.new(32){rand(36).to_s(36)}.join<<".png"
 
 
-		end
+			end
 
-else
-   puts "I can't find the drop down move to the next one"
-   sleep 5
-   browser.button(:id=>'phdesktopbody_0_phdesktopproductprimarycontentarea_0_anchrBuyNowLeft').click
-sleep 7
+	else
+ 		  puts "I can't find the drop down move to the next one"
+ 		  sleep 5
+  			 browser.button(:id=>'phdesktopbody_0_phdesktopproductprimarycontentarea_0_anchrBuyNowLeft').click
+		sleep 7
 end 
+
+browser.button(:id=>'phdesktopbody_0_phdesktopproductprimarycontentarea_0_anchrBuyNowLeft').click
+sleep 7
+
 if browser.text.include?("To purchase this item please go directly to your preferred online retailer or visit a store near you.").should == true
 
 browser.screenshot.save  "NoItem/#{browser.title}_"<<Array.new(32){rand(36).to_s(36)}.join<<".png"
@@ -78,7 +82,7 @@ end
 
 
 
-end
+
 
 
 end

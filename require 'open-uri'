@@ -1,0 +1,8 @@
+require 'open-uri'
+url = "http://www.garnierusa.com/products/styling/sleek-and-smooth-hair-styling/smoothing-and-shine/anti-humidity-smo444othing-milk.aspx"
+begin
+   doc = open(url)
+rescue
+   puts "The request for a page at #{url} timed out...exiting."
+  exit
+end
