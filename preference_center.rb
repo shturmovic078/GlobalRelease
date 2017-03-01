@@ -49,9 +49,14 @@ counter+=1
 
 sleep 4
 
-
+browser.button(:type => 'submit').click
+browser.screenshot.save "Login/#{"Blank submission"}_"<<counter.to_s<<".png"
+counter+=1
 browser.a(:id =>/forgotpassword*/).when_present.click
 sleep 4
+browser.button(:type => 'submit').click
+browser.screenshot.save "Login/#{"Blank submission"}_"<<counter.to_s<<".png"
+counter+=1
 browser.text_field(:name => 'phdesktopbody_0$username').set 'albert.golubev@pkt.com'
 sleep 4
 browser.text_field(:name => 'phdesktopbody_0$zipcode').set '11235'
