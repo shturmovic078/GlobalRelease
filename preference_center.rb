@@ -41,7 +41,7 @@ sleep 1
 puts counter
 puts browser.title
 
-browser.link(:href, "/en-us/logingform").click
+browser.link(:text =>"Login").when_present.click
 
 browser.screenshot.save  "Login/#{"Login_Page"}_"<<counter.to_s<<".png"
 puts "Go to next line or stop"
