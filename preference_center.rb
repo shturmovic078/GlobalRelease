@@ -10,12 +10,10 @@ require 'watir-scroll'
 include Selenium
 
 caps = WebDriver::Remote::Capabilities.new
-caps[:os] = "Windows"
-caps[:name] = "Watir WebDriver"
-caps[:browser] = 'IE'
-caps[:browser_version] = '11.0'
+caps['browser'] = 'Chrome'
+caps['browser_version'] = '56.0'
 caps['os'] = 'Windows'
-caps['os_version'] = '7'
+caps['os_version'] = '10'
 caps['resolution'] = '1024x768'
 caps["browserstack.debug"] = "true"
 
@@ -41,7 +39,7 @@ sleep 1
 puts counter
 puts browser.title
 
-browser.link(:text =>"LOGIN").when_present.click
+browser.link(:text =>"Login").when_present.click
 
 browser.screenshot.save  "Login/#{"Login_Page"}_"<<counter.to_s<<".png"
 puts "Go to next line or stop"
