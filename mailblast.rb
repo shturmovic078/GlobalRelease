@@ -39,7 +39,7 @@ Mail.deliver do
       
 
        
-  subject 'ECRM-7 Email Test'
+  subject 'ECRM-28 Email Test'
   content_type 'text/html; charset=UTF-8'
   body   File.read('template.txt')
 end

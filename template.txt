@@ -1,47 +1,471 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cartier Mastercard Valentines</title>
+  <title>Day Light Savings Time (English)</title>
   <!-- styles will be inlined -->
 
   <!-- styles will be embedded -->
   <style type="text/css">
-    a {  outline: 0;  }
-    .full-width {  width: 600px;  }
-    p {  margin: 0;  padding: 0;  }
-    img {  margin: 0;  padding: 0;  border: 0;  }
-    table td{  border-collapse: collapse;  }
-    table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;}
-    td img {  vertical-align: bottom;  }
-    body {  margin: 0;  padding: 0;  font-family: Georgia, Arial, sans-serif !important;  -webkit-text-size-adjust: none;  background: #ffffff;  }
-    .contextualExtensionHighlight {  border: none !important;  cursor: none !important;  }
-    .ms-font-color-themePrimary {  color: white !important;  }
-    .ms-border-color-themePrimary {  border: none !important;  }
-    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
-    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
-    .appleLinksWhite a {  color: #ffffff !important;  text-decoration: none !important;  }
-    .appleLinksGrey a {  color: #9b9b9b !important;  text-decoration: none !important;  }
-    .mobile-only {  display: none;  }
-    .desktop-only {  display: block;  }
+    a {
+      outline: 0;
+    }
 
-    @media only screen and (max-width: 500px) {
-      .columns-container {
-        width: 320px !important;
+    .full-width {
+      width: 600px;
+    }
+
+    p {
+      margin: 0;
+      padding: 0;
+    }
+
+    img {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+    table td{
+      border-collapse: collapse;
+    }
+
+    td img {
+      vertical-align: bottom;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Georgia, Arial, sans-serif !important;
+      -webkit-text-size-adjust: none;
+      background: #ffffff;
+    }
+
+    .contextualExtensionHighlight {
+      border: none !important;
+      cursor: none !important;
+    }
+
+    .ms-font-color-themePrimary {
+      color: white !important;
+    }
+
+    .ms-border-color-themePrimary {
+      border: none !important;
+    }
+
+    .outlook-links span {
+      cursor: none !important;
+      color: white !important;
+      border-bottom-width: 0 !important;
+      border-bottom-style: none !important;
+    }
+
+    .body-text {
+      color: #000000;
+      text-align: center;
+      font-family: Arial, sans-serif !important;
+      font-size: 14px;
+      line-height: 19px;
+    }
+
+    .body-text-container {
+      font-family: Arial, sans-serif !important;
+    }
+
+    .outlook-links span {
+      cursor: none !important;
+      color: white !important;
+      border-bottom-width: 0 !important;
+      border-bottom-style: none !important;
+    }
+
+
+    .disclaimer-spacer {
+      display: block;
+    }
+
+    .disclaimer-text {
+      color: #9B9B9B;
+      font-family: Arial, Helvetica, sans-serif;
+      text-decoration: none;
+      font-size: 10px;
+    }
+
+    .disclaimer-link {
+      color: #9B9B9B;
+      font-family: Arial, Helvetica, sans-serif;
+      text-decoration: underline;
+    }
+
+    .collections-block {
+      width: 600px;
+    }
+
+    .social-block {
+      width: 600px;
+    }
+
+    .panther-collection {
+      width: 600px;
+    }
+    .appleLinksGrey a {
+      color: #9b9b9b !important;
+      text-decoration: none !important;
+    }
+    .mobile-only {
+      display: none !important;
+    }
+    .desktop-only {
+      display: block !important;
+    }
+
+    /* firefox */
+    @-moz-document url-prefix() {
+      .full-width {
+        width: 600px !important;
+        overflow: hidden;
       }
+      .logo-image {
+        width: 600px !important;
+        height: 125px !important;
+      }
+      .hero-image {
+        width: 446px !important;
+        height: 491px !important;
+      }
+      .hero-bottom {
+        width: 600px !important;
+        height: 195px !important;
+      }
+            .cta {
+              width: 600px !important;
+              height: 50px !important;
+            }
+      .boutique-image {
+        width: 199px !important;
+        height: 129px !important;
+      }
+      .boutique-cta {
+        width: 199px !important;
+        height: 44px !important;
+      }
+      .appointment-image {
+        width: 199px !important;
+        height: 129px !important;
+      }
+      .appointment-cta {
+        width: 199px !important;
+        height: 44px !important;
+      }
+      .collection-image {
+        width: 202px !important;
+        height: 129px !important;
+      }
+      .collection-cta {
+        width: 202px !important;
+        height: 44px !important;
+      }
+      .social-spacer-left {
+        width: 171px !important;
+        height: 28px !important;
+      }
+      .social-facebook {
+        width: 43px !important;
+        height: 28px !important;
+      }
+      .social-twitter {
+        width: 57px !important;
+        height: 28px !important;
+      }
+      .social-instagram {
+        width: 53px !important;
+        height: 28px !important;
+      }
+      .social-youtube {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-pinterest {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-spacer-right {
+        width: 172px !important;
+        height: 28px !important;
+      }
+      .socialisation {
+        width: 600px !important;
+      }
+      .site-table {
+        width: 600px !important;
+      }
+      .footer-logo {
+        width: 600px !important;
+        height: 60px !important;
+      }
+    }
+
+    .logo-link {
+      color: #00437b !important;
+      text-decoration: none;
+    }
+
+    .logo-image {
+      display: block !important;
+    }
+
+    .logo-placeholder {
+      display: block !important;
+    }
+
+    .hero-image {
+      display: block !important;
+    }
+
+    .hero-block {
+      width: 600px;
+    }
+
+    .placeholder-link {
+      outline: 0;
+      color: #ffffff;
+      text-decoration: none;
+    }
+
+    .placeholder-image {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      vertical-align: bottom;
+      display: block;
+    }
+
+    /*ie 10 specific */
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+      .contextualExtensionHighlight {
+        border: none !important;
+        cursor: none !important;
+      }
+      .ms-font-color-themePrimary {
+        color: white !important;
+      }
+      .ms-border-color-themePrimary {
+        border: none !important;
+      }
+      .outlook-links span {
+        cursor: none !important;
+        color: white !important;
+        border-bottom-width: 0 !important;
+        border-bottom-style: none !important;
+      }
+      .full-width {
+        width: 600px !important;
+        overflow: hidden;
+      }
+      * [office365] .outlookLink span {
+        color: white !important;
+        border-bottom-width: 0 !important;
+        border-bottom-style: none !important;
+      }
+      .body-text > .contextualExtensionHighlight,
+      .body-text > .ms-font-color-themePrimary,
+      .body-text > .ms-border-color-themePrimary {
+        border-bottom-width: 0 !important;
+        border-bottom-style: none !important;
+      }
+      .full-width {
+        width: 600px !important;
+      }
+      .logo-image {
+        width: 600px !important;
+        height: 125px !important;
+      }
+      .hero-image {
+        width: 446px !important;
+        height: 491px !important;
+      }
+
+      .hero-bottom {
+        width: 600px !important;
+        height: 195px !important;
+      }
+
+            .cta {
+              width: 600px !important;
+              height: 50px !important;
+            }
+
+      .boutique-image {
+        width: 199px !important;
+        height: 129px !important;
+      }
+      .boutique-cta {
+        width: 199px !important;
+        height: 44px !important;
+      }
+      .appointment-image {
+        width: 199px !important;
+        height: 129px !important;
+      }
+      .appointment-cta {
+        width: 199px !important;
+        height: 44px !important;
+      }
+      .collection-image {
+        width: 202px !important;
+        height: 129px !important;
+      }
+      .collection-cta {
+        width: 202px !important;
+        height: 44px !important;
+      }
+      .social-spacer-left {
+        width: 171px !important;
+        height: 28px !important;
+      }
+      .social-facebook {
+        width: 43px !important;
+        height: 28px !important;
+      }
+      .social-twitter {
+        width: 57px !important;
+        height: 28px !important;
+      }
+      .social-instagram {
+        width: 53px !important;
+        height: 28px !important;
+      }
+      .social-youtube {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-pinterest {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-spacer-right {
+        width: 172px !important;
+        height: 28px !important;
+      }
+      .socialisation {
+        width: 600px !important;
+      }
+      .site-table {
+        width: 600px !important;
+      }
+      .footer-logo {
+        width: 600px !important;
+        height: 60px !important;
+      }
+            .horizontal-social-spacer-mobile {
+              display: none;
+            }
+            .horizontal-social-spacer-desktop {
+              display: block;
+            }
+    }
+
+    @media only screen and (min-width: 560px) {
       .mobile-only {
-        display: block;
+        display: none !important;
       }
       .desktop-only {
-        display: none;
+        display: block !important;
       }
-      .desktop-block {
-        display: inline-block !important;
+      .full-width {
+        width: 600px !important;
+        overflow: hidden;
       }
-      *[class="break"] {
-        display: block;
-        height: 0;
+      * [office365] .outlookLink span {
+        color: white !important;
+        border-bottom-width: 0 !important;
+        border-bottom-style: none !important;
+      }
+      .body-text > .contextualExtensionHighlight,
+      .body-text > .ms-font-color-themePrimary,
+      .body-text > .ms-border-color-themePrimary {
+        border-bottom-width: 0 !important;
+        border-bottom-style: none !important;
+      }
+      .appleLinksWhite a {
+        color: #ffffff !important;
+        text-decoration: none !important;
+      }
+      .appleLinksGrey a {
+        color: #9b9b9b !important;
+        text-decoration: none !important;
+      }
+      .logo-image {
+        width: 600px !important;
+        height: 125px !important;
+      }
+      .hero-image {
+        width: 446px !important;
+        height: 491px !important;
+      }
+      .hero-bottom {
+        width: 600px !important;
+        height: 195px !important;
+      }
+            .cta {
+              width: 600px !important;
+              height: 50px !important;
+            }
+      .social-spacer-left {
+        width: 171px !important;
+        height: 28px !important;
+      }
+      .social-facebook {
+        width: 43px !important;
+        height: 28px !important;
+      }
+      .social-twitter {
+        width: 57px !important;
+        height: 28px !important;
+      }
+      .social-instagram {
+        width: 53px !important;
+        height: 28px !important;
+      }
+      .social-youtube {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-pinterest {
+        width: 52px !important;
+        height: 28px !important;
+      }
+      .social-spacer-right {
+        width: 172px !important;
+        height: 28px !important;
+      }
+      .socialisation {
+        width: 600px !important;
+      }
+      .site-table {
+        width: 600px !important;
+      }
+      .footer-logo {
+        width: 600px !important;
+        height: 60px !important;
+      }
+            .horizontal-social-spacer-mobile {
+              display: none;
+            }
+            .horizontal-social-spacer-desktop {
+              display: block;
+            }
+    }
+
+    @media only screen and (max-width: 500px) {
+      .mobile-only {
+        display: block !important;
+      }
+      .desktop-only {
+        display: none !important;
       }
       .appleLinksGrey a {
         color: #9b9b9b !important;
@@ -52,7 +476,7 @@
       }
       .site-table {
         width: 320px !important;
-        display: block;
+        display: inline-block;
       }
       .siteLink01 {
         width: 320px !important;
@@ -66,99 +490,79 @@
         width: 320px !important;
         display: block !important;
       }
-      .IMG1{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG1_mob.jpg") !important;
+      .logo-image {
+        content: url("images/mobile-logo-image.jpg") !important;
         width: 320px !important;
-        height: 332px !important;
+        height: 113px !important;
       }
-      .IMG2{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG2_mob.jpg") !important;
+      .hero-visit-collection {
         width: 320px !important;
-        height: 38px !important;
       }
-      .IMG4a{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4a_mob.jpg") !important;
+      .hero-image {
+        content: url("images/mobile-hero.gif") !important;
+        width: 320px !important;
+        height: 352px !important;
+      }
+
+      .hero-bottom {
+        content: url("images/body-text-mobile.jpg") !important;
         width: 320px !important;
         height: 172px !important;
       }
-      .IMG4b_01{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_01_mob.jpg") !important;
-        width: 320px !important;
-        height: 70px !important;
-      }
-      .IMG4b_02{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_02_mob.jpg") !important;
-        width: 320px !important;
-        height: 54px !important;
-      }
-      .IMG5a_01{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_01_mob.jpg") !important;
-        width: 320px !important;
-        height: 197px !important;
-      }
-      .IMG5a_02{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_02_mob.jpg") !important;
-        width: 320px !important;
-        height: 35px !important;
-      }
-      .IMG5b_01{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_01_mob.jpg") !important;
-        width: 320px !important;
-        height: 194px !important;
-      }
-      .IMG5b_02{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_02_mob.jpg") !important;
-        width: 320px !important;
-        height: 43px !important;
-      }
-      .IMG7a{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7a_mob.jpg") !important;
-        width: 320px !important;
-        height: 96px !important;
-      }
-      .IMG7b{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7b_mob.jpg") !important;
-        width: 320px !important;
-        height: 96px !important;
-      }
-      .IMG7c{
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7c_mob.jpg") !important;
-        width: 320px !important;
-        height: 96px !important;
-      }
 
-      .social-spacer-left {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-spacer-left.jpg") !important;
+            .cta {
+              content: url("images/mobile-cta.jpg") !important;
+              width: 320px !important;
+              height: 68px !important;
+            }
+
+      .cta-boutique {
+        content: url("images/mobile-cta-boutique.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .cta-ambassador {
+        content: url("images/mobile-cta-ambassador.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .cta-collection {
+        content: url("images/mobile-cta-collection.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+            .social-spacer-left {
+        content: url("images/mobile-social-spacer-left.jpg") !important;
         width: 46px !important;
         height: 26px !important;
       }
       .social-facebook {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-facebook.jpg") !important;
+        content: url("images/mobile-social-facebook.jpg") !important;
         width: 41px !important;
         height: 26px !important;
       }
       .social-twitter {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-twitter.jpg") !important;
+        content: url("images/mobile-social-twitter.jpg") !important;
         width: 48px !important;
         height: 26px !important;
       }
       .social-instagram {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-instagram.jpg") !important;
+        content: url("images/mobile-social-instragram.jpg") !important;
         width: 47px !important;
         height: 26px !important;
       }
       .social-youtube {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-youtube.jpg") !important;
+        content: url("images/mobile-social-youtube.jpg") !important;
         width: 47px !important;
         height: 26px !important;
       }
       .social-pinterest {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-pinterest.jpg") !important;
+        content: url("images/mobile-social-pinterest.jpg") !important;
         width: 40px !important;
         height: 26px !important;
       }
-      .social-spacer-right {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-social-spacer-right.jpg") !important;
+            .social-spacer-right {
+        content: url("images/mobile-social-spacer-right.jpg") !important;
         width: 51px !important;
         height: 26px !important;
       }
@@ -169,109 +573,233 @@
         width: 320px !important;
       }
       .footer-logo {
-        content: url("http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/mobile-footer-logo.jpg") !important;
+        content: url("images/mobile-footer-logo.jpg") !important;
         width: 320px !important;
         height: 61px !important;
       }
+            .horizontal-social-spacer-mobile {
+              display: block;
+            }
+            .horizontal-social-spacer-desktop {
+              display: none;
+            }
+    }
+
+    @media only screen and (max-width: 360px) {
+      .mobile-only {
+        display: block !important;
+      }
+      .desktop-only {
+        display: none !important;
+      }
+      .full-width {
+        width: 320px !important;
+      }
+      .logo-image {
+        content: url("images/mobile-logo-image.jpg") !important;
+        width: 320px !important;
+        height: 113px !important;
+      }
+      .hero-visit-collection {
+        width: 320px !important;
+      }
+      .hero-image {
+        content: url("images/mobile-hero.gif") !important;
+        width: 320px !important;
+        height: 352px !important;
+      }
+      .hero-bottom {
+        content: url("images/body-text-mobile.jpg") !important;
+        width: 320px !important;
+        height: 172px !important;
+      }
+            .cta {
+              content: url("images/mobile-cta.jpg") !important;
+              width: 320px !important;
+              height: 68px !important;
+            }
+      .cta-boutique {
+        content: url("images/mobile-cta-boutique.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .cta-ambassador {
+        content: url("images/mobile-cta-ambassador.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+      .cta-collection {
+        content: url("images/mobile-cta-collection.jpg") !important;
+        width: 320px !important;
+        height: 96px !important;
+      }
+            .social-spacer-left {
+        content: url("images/mobile-social-spacer-left.jpg") !important;
+        width: 46px !important;
+        height: 26px !important;
+      }
+      .social-facebook {
+        content: url("images/mobile-social-facebook.jpg") !important;
+        width: 41px !important;
+        height: 26px !important;
+      }
+      .social-twitter {
+        content: url("images/mobile-social-twitter.jpg") !important;
+        width: 48px !important;
+        height: 26px !important;
+      }
+      .social-instagram {
+        content: url("images/mobile-social-instragram.jpg") !important;
+        width: 47px !important;
+        height: 26px !important;
+      }
+      .social-youtube {
+        content: url("images/mobile-social-youtube.jpg") !important;
+        width: 47px !important;
+        height: 26px !important;
+      }
+      .social-pinterest {
+        content: url("images/mobile-social-pinterest.jpg") !important;
+        width: 40px !important;
+        height: 26px !important;
+      }
+            .social-spacer-right {
+        content: url("images/mobile-social-spacer-right.jpg") !important;
+        width: 51px !important;
+        height: 26px !important;
+      }
+      .socialisation {
+        width: 320px !important;
+      }
+      .site-table {
+        width: 320px !important;
+        display: inline-block;
+      }
+      .siteLink01 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .siteLink02 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .siteLink03 {
+        width: 320px !important;
+        display: block !important;
+      }
+      .footer-logo {
+        content: url("images/mobile-footer-logo.jpg") !important;
+        width: 320px !important;
+        height: 61px !important;
+      }
+            .horizontal-social-spacer-mobile {
+              display: block;
+            }
+            .horizontal-social-spacer-desktop {
+              display: none;
+            }
     }
 
   </style>
   <!--[if IE]>
   <style type="text/css">
-    .full-width {  width: 600px !important;  overflow: hidden;  }
-    .contextualExtensionHighlight {  border: none !important;  cursor: none !important;  }
-    .ms-font-color-themePrimary {  color: white !important;  }
-    .ms-border-color-themePrimary {  border: none !important;  }
-    .outlook-links span {  cursor: none !important;  color: white !important;  border-bottom-width: 0 !important;  border-bottom-style: none !important;  }
+    .full-width {
+      width: 600px !important;
+      overflow: hidden;
+    }
+
+    .logo-image {
+      width: 600px !important;
+      height: 125px !important;
+    }
+
+    .contextualExtensionHighlight {
+      border: none !important;
+      cursor: none !important;
+    }
+
+    .ms-font-color-themePrimary {
+      color: white !important;
+    }
+
+    .ms-border-color-themePrimary {
+      border: none !important;
+    }
+
+    .outlook-links span {
+      cursor: none !important;
+      color: white !important;
+      border-bottom-width: 0 !important;
+      border-bottom-style: none !important;
+    }
+
   </style>
   <![endif]-->
 </head>
-<body style="margin: 0; padding: 0; font-family: Georgia, Arial, sans-serif; -webkit-text-size-adjust: none; background: none;">
-<table align="center" cellspacing="0" cellpadding="0" border="0" class="full-width site-table" style="width: 600px; background: none">
-
-  <tr bgcolor="#ffffff" style="border-color:#ffffff">
-    <td height="10" bgcolor="#ffffff" style="border-color:#ffffff; border-collapse: collapse;"></td>
+<body style="margin: 0; padding: 0; font-family: Georgia, Arial, sans-serif; -webkit-text-size-adjust: none; background: #ffffff;">
+<table align="center" cellspacing="0" cellpadding="0" border="0" class="full-width" style="width: 600px;">
+  <tr bgcolor="#ffffff">
+    <td height="10" bgcolor="#ffffff"></td>
   </tr>
-  <tr bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
-    <!-- view email -->
-    <td align="center" style="color:#9B9B9B; border-collapse: collapse; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;" bgcolor="#ffffff">If you cannot see this e-mail, please <a href="#Mailing:HostedEmail#" target="_blank" style="color:#9B9B9B;font-family:Arial, Helvetica, sans-serif; text-decoration:underline;">click here</a>.</td>
-    <!-- view email -->
-  </tr>
-  <tr bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
-    <td height="10" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;"></td>
-  </tr>
-
   <tr>
-    <td class="site-table">
-      <table cellpadding="0" cellspacing="0" border="0" width="600" align="center" style="background-color:WHITE;" bgcolor="white" class="columns-container site-table">
-        <tr>
-          <td class="site-table">
-            <a href="#" target="_blank">
-                <img class="IMG1" src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG1.jpg" width="600" height="476" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;">
-            </a>
-          </td>
-        </tr>
-      </table>
-      <table cellpadding="0" cellspacing="0" border="0" width="600" align="center" style="background-color:WHITE;" bgcolor="white" class="columns-container">
-        <tr>
-          <td class="site-table">
-            <a href="http://xyx.xyx.xy" class="" target="_blank" title="Discover The New Love Bracelet" style="margin: 0; padding: 0; border: 0; outline: 0;">
-              <img class="IMG2" src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG2.jpg" width="600" height="53" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;">
-            </a>
-          </td>
-        </tr>
-      </table>
+    <!-- view email -->
+    <td align="center" style="color:#9B9B9B; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;" bgcolor="#ffffff">If you cannot see this e-mail, please <a href="#Mailing:HostedEmail#" target="_blank" style="color:#9B9B9B;font-family:Arial, Helvetica, sans-serif; text-decoration:underline;">click here</a>.</td>
+    <!-- view email -->
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td height="10" bgcolor="#ffffff"></td>
+  </tr>
+  <tr>
+    <!-- view email in French -->
+    <td align="center" style="color:#9B9B9B; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;" bgcolor="#ffffff">If you want to read this e-mail in French, please <a href="#Mailing:HostedEmail#" target="_blank" style="color:#9B9B9B;font-family:Arial, Helvetica, sans-serif; text-decoration:underline;">click here</a>.</td>
+    <!-- view email in French -->
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td height="10" bgcolor="#ffffff"></td>
+  </tr>
+
+  <!--LOGO-->
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#ffffff">
+      <a href="http://xyx.xyx.xy" class="logo-link" target="_blank" title="Cartier" style="outline: 0; color: #00437b; text-decoration: none;">
+        <img class="logo-image" src="images/cartier-logo.jpg" width="600" height="125" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;">
+      </a>
     </td>
   </tr>
 
+  <!--HERO IMAGE-->
+  <tr bgcolor="#000000">
+    <td align="center" bgcolor="#000000">
+      <a href="http://xyx.xyx.xy" class="hero-image" target="_blank" title="Cartier" style="outline: 0; display: block;">
+        <img class="hero-image" src="images/hero.gif" width="446" height="491" border="0" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" />
+      </a>
+    </td>
+  </tr>
 
   <!-- BODY TEXT -->
   <tr bgcolor="#ffffff">
-    <td align="center" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
-      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+    <td align="center" bgcolor="#ffffff">
+      <table class="hero-visit-collection" cellspacing="0" cellpadding="0" border="0">
         <tr bgcolor="#ffffff">
-          <td class="site-table" width="600" align="center" bgcolor="#ffffff">
-            <table cellspacing="0" cellpadding="0" border="0" align="center">
-              <tr>
-                <td valign="top" class="siteLink02" bgcolor="#ffffff">
-                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4a.jpg" class="IMG4a" width="300" height="278" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                </td>
-                <td valign="top" class="siteLink01" bgcolor="#ffffff">
-                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_01.jpg" class="IMG4b_01" width="300" height="165" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  <a href="http://xyx.xyx.xy" target="_blank" title="Shop The Love Collection" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG4b_02.jpg" class="IMG4b_02" width="300" height="113" alt="Shop The Love Collection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  </a>
-                </td>
-              </tr>
-            </table>
+          <td class="collections-block" style="width: 600px;">
+            <a href="http://xyx.xyx.xy"  target="_blank" title="Cartier" style="outline: 0; display: block;">
+                          <img src="images/body-text-desktop.jpg" class="hero-bottom" width="600" height="195" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;" />
+            </a>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 
-  <!-- BODY CTA-->
+  <!--CTA-->
   <tr bgcolor="#ffffff">
-    <td align="center" bgcolor="#ffffff" style="border-color:#ffffff; background-color: #ffffff; border-collapse: collapse;">
-      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+    <td align="center" bgcolor="#ffffff">
+      <table class="hero-visit-collection" cellspacing="0" cellpadding="0" border="0">
         <tr bgcolor="#ffffff">
-          <td class="site-table" width="600" align="center" bgcolor="#ffffff">
-            <table cellspacing="0" cellpadding="0" border="0" align="center">
-              <tr>
-                <td valign="top" class="siteLink02" bgcolor="#ffffff">
-                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_01.jpg" class="IMG5a_01" width="302" height="349" alt="Watch The Film" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  <a href="http://xyx.xyx.xy" target="_blank" title="Watch The Film" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5a_02.jpg" class="IMG5a_02" width="302" height="49" alt="Watch The Film" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  </a>
-                </td>
-                <td valign="top" class="siteLink01" bgcolor="#ffffff">
-                  <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_01.jpg" class="IMG5b_01" width="298" height="349" alt="Shop The Valentine Selection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  <a href="http://xyx.xyx.xy" target="_blank" title="Shop The Valentine Selection" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG5b_02.jpg" class="IMG5b_02" width="298" height="49" alt="Shop The Valentine Selection" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
-                  </a>
-                </td>
-              </tr>
-            </table>
+          <td class="collections-block" style="width: 600px;">
+            <a href="http://xyx.xyx.xy" target="_blank" title="Cartier" style="outline: 0; display: block;">
+              <img src="images/desktop-cta.jpg" class="cta" width="600" height="50" alt="Cartier" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;" />
+            </a>
           </td>
         </tr>
       </table>
@@ -281,26 +809,26 @@
 
   <!-- COLLECTIONS -->
   <tr bgcolor="#ffffff">
-    <td align="center" bgcolor="#ffffff" style="border-color:#000000; background-color: #000000; border-collapse: collapse;">
-      <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
+    <td align="center" bgcolor="#ffffff">
+      <table id="socialisation" cellspacing="0" cellpadding="0" border="0">
         <tr bgcolor="#ffffff">
           <td class="site-table" width="600" align="center" bgcolor="#ffffff">
             <table cellspacing="0" cellpadding="0" border="0" align="center">
               <tr>
-                <td valign="top" class="siteLink01" bgcolor="#ffffff">
-                  <a href="http://xyx.xyx.xy" target="_blank" title="Find A Boutique" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7a.jpg" class="IMG7a" width="199" height="210" alt="Find A Boutique" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                <td valign="top" class="siteLink02" bgcolor="#ffffff">
+                  <a href="http://xyx.xyx.xy" target="_blank" title="Boutique Locations" style="outline: 0;">
+                    <img src="images/cta-boutique.jpg" class="cta-boutique" width="200" height="234" alt="Boutique Locations" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
                   </a>
 
                 </td>
-                <td valign="top" class="siteLink02" bgcolor="#ffffff">
+                <td valign="top" class="siteLink01" bgcolor="#ffffff">
                   <a href="http://xyx.xyx.xy" target="_blank" title="Book An Appointment" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7b.jpg" class="IMG7b" width="199" height="210" alt="Book An Appointment" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                    <img src="images/cta-ambassador.jpg" class="cta-ambassador" width="202" height="234" alt="Book An Appointment" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
                   </a>
                 </td>
-                <td valign="top" class="siteLink03" bgcolor="#ffffff">
+                <td valign="top" class="siteLink01" bgcolor="#ffffff">
                   <a href="http://xyx.xyx.xy" target="_blank" title="Collections" style="outline: 0;">
-                    <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/IMG7c.jpg" class="IMG7c" width="202" height="210" alt="Collections" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
+                    <img src="images/cta-collection.jpg" class="cta-collection" width="198" height="234" alt="Collections" style="margin: 0; padding: 0; border: 0; vertical-align: bottom;">
                   </a>
                 </td>
               </tr>
@@ -321,49 +849,49 @@
       <table class="socialisation" cellspacing="0" cellpadding="0" border="0">
         <tr bgcolor="#ffffff">
           <!--Social : spacer left-->
-          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
-            <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-spacer-left.jpg" class="social-spacer-left" width="171" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
-          </td>
+                  <td valign="top" class="social_on_mobile social-spacer-left" bgcolor="#ffffff">
+                    <img src="images/social-spacer-left.jpg" class="social-spacer-left" width="171" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="" />
+                  </td>
 
           <!--Social : Facebook-->
           <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
             <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://www.facebook.com/Cartier" target="_blank" title="Facebook">
-              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-facebook.jpg" class="social-facebook" width="43" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="facebook">
+              <img src="images/social-facebook.jpg" class="social-facebook" width="43" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="facebook">
             </a>
           </td>
 
           <!--Social : Twitter-->
           <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
             <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="https://twitter.com/Cartier" target="_blank" title="Twitter">
-              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-twitter.jpg" class="social-twitter" width="57" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="twitter">
+              <img src="images/social-twitter.jpg" class="social-twitter" width="57" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="twitter">
             </a>
           </td>
 
           <!--Social : Instragram-->
           <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
             <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://instagram.com/Cartier" target="_blank" title="Instagram">
-              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-instagram.jpg" class="social-instagram" width="53" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="instagram">
+              <img src="images/social-instagram.jpg" class="social-instagram" width="53" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="instagram">
             </a>
           </td>
 
           <!--Social : Youtube-->
           <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
             <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://www.youtube.com/user/Cartier" target="_blank" title="Youtube">
-              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-youtube.jpg" class="social-youtube" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="youtube">
+              <img src="images/social-youtube.jpg" class="social-youtube" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="youtube">
             </a>
           </td>
 
           <!--Social : Pinterest-->
           <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
             <a style="outline: 0; font-family: Georgia; color: #000000; text-decoration: none; font-size: 12px; font-weight: bold; font-style: italic;" href="http://pinterest.com/cartier/" target="_blank" title="Pinterest">
-              <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-pinterest.jpg" class="social-pinterest" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="pinterest">
+              <img src="images/social-pinterest.jpg" class="social-pinterest" width="52" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="pinterest">
             </a>
           </td>
 
           <!--Social : spacer right-->
-          <td valign="top" class="social_on_mobile" bgcolor="#ffffff">
-            <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/social-spacer-right.jpg" class="social-spacer-right" width="172" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
-          </td>
+                  <td valign="top" class="social_on_mobile social-spacer-right" bgcolor="#ffffff">
+                    <img src="images/social-spacer-right.jpg" class="social-spacer-right" width="172" height="28" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="" />
+                  </td>
 
         </tr>
       </table>
@@ -371,7 +899,10 @@
   </tr>
 
   <tr bgcolor="#ffffff">
-    <td height="30" bgcolor="#ffffff"></td>
+    <td class="horizontal-social-spacer-desktop" height="30" bgcolor="#ffffff"></td>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td class="horizontal-social-spacer-mobile" height="10" bgcolor="#ffffff"></td>
   </tr>
 
   <tr>
@@ -379,14 +910,13 @@
       <div align="center" style="color:#9b9b9b; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px; line-height: 12px; display: block;">
         <div class="footer-content" size="1px" color="#9b9b9b" face="Arial, Helvetica, sans-serif"><span style="color:#9b9b9b; font-family:Arial, Helvetica, sans-serif; text-decoration:none; font-size:10px;"><div class="desktop-block" style="display: block;">This e-mail was sent to you on behalf of Cartier International.</div>
         If you received this message in error or no longer wish to receive the Cartier Newsletter, please
-				<a href="http://xyx.xyx.xy" style="outline: 0; color: #9b9b9b; font-family: Arial, Helvetica, sans-serif; text-decoration: none;">
-					<span class="text-underline" style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;">click here</span>
-				</a> to unsubscribe. <br>
+        <a href="http://xyx.xyx.xy" style="outline: 0; color: #9b9b9b; font-family: Arial, Helvetica, sans-serif; text-decoration: none;">
+          <span class="text-underline" style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;">click here</span>
+        </a> to unsubscribe. <br>
         <br>
         To contact Cartier please write to: <br>
         <span class="">Cartier CRM Department,</span> <span class="appleLinksGrey">645 Fifth Avenue, New York, NY 10022</span> or<br>
-        <a style="outline: 0; text-decoration: underline; text-decoration-color: #9b9b9b; color: #9b9b9b;" href="mailto:contact.na@cartier.com">
-			 <span class="text-underline" style="font-family: Arial, Helvetica, sans-serif; color: #9b9b9b; font-size: 10px; text-decoration: underline; text-decoration-color: #9b9b9b;">contact.na@cartier.com</span></a><br>
+    <a style="text-decoration: none; color: #9b9b9b" href="mailto:contact.na@cartier.com"><span class="text-underline" style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;">contact.na@cartier.com</span></a>.<br>
         <br>
         <a href="http://xyx.xyx.xy" target="_blank" style="outline: 0;"><span style="color:#9b9b9b;font-family:Arial, Helvetica, sans-serif;font-size:10px; text-decoration: underline;" class="text-underline">Privacy notice</span></a> | Copyright&nbsp;&#169;&nbsp;Cartier&nbsp;2017</span></div> <br>
         <br>
@@ -394,7 +924,7 @@
   </tr>
   <tr>
     <td bgcolor="#ffffff">
-      <img src="http://development.cartier.pkt-tech.com/2017/01312017-mastercard-val/images/footer-logo.jpg" class="footer-logo" width="600" height="60" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
+      <img src="images/footer-logo.jpg" class="footer-logo" width="600" height="60" border="0" style="margin: 0; padding: 0; border: 0; vertical-align: bottom; display: block;" alt="">
     </td>
   </tr>
 </table>
