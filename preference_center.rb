@@ -10,10 +10,10 @@ require 'watir-scroll'
 include Selenium
 
 caps = WebDriver::Remote::Capabilities.new
-caps['browser'] = 'Chrome'
-caps['browser_version'] = '56.0'
+caps['browser'] = 'IE'
+caps['browser_version'] = '11.0'
 caps['os'] = 'Windows'
-caps['os_version'] = '10'
+caps['os_version'] = '7'
 caps['resolution'] = '1024x768'
 caps["browserstack.debug"] = "true"
 
