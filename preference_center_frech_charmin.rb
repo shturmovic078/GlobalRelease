@@ -25,7 +25,7 @@ browser = Watir::Browser.new(:remote,
 
 counter=1
 
-csv_text = File.read('register.csv')
+csv_text = File.read('register_french.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|  
 sleep 4
@@ -41,7 +41,7 @@ sleep 1
 puts counter
 puts browser.title
 
-browser.link(:href, "/en-us/loginpage").click
+browser.link(:href, "/fr-ca/page-connexion*").click
 
 browser.screenshot.save  "Login/#{"Login_Page"}_"<<counter.to_s<<".png"
 puts "Go to next line or stop"
@@ -50,7 +50,7 @@ counter+=1
 sleep 4
 
 
-browser.a(:id =>/forgotpassword*/).when_present.click
+browser.a(:id =>/phdesktopbody_0_RegisterLink*/).when_present.click
 sleep 4
 browser.text_field(:name => 'phdesktopbody_0$username').set 'albert.golubev@pkt.com'
 sleep 4

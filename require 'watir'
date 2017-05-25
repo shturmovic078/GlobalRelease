@@ -1,0 +1,8 @@
+require 'watir'
+
+
+
+browser = Watir::Browser.new
+browser.goto 'http://bit.ly/watir-example'
+
+browser.close

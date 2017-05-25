@@ -2,9 +2,7 @@
 
 
 require 'watir-webdriver'
-require 'webdriver-user-agent'
 require 'csv'
-require 'watir-scroll'
 #require 'mechanize'
 
 include Selenium
@@ -43,7 +41,7 @@ puts browser.title
 
 
 
-browser.screenshot.save  "Oralb/#{"product_search"}_"<<counter.to_s<<".png"
+browser.screenshot.save  "Oralb/#{"browser.title"}_"<<counter.to_s<<".png"
 puts "Go to next line or stop"
 sleep 3
 
