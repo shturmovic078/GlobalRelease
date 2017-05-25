@@ -29,7 +29,7 @@ browser.goto loc1
 sleep 5
 
 puts browser.title
-browser.screenshot.save  browser.title<<"initial_load"<<".png"
+#browser.screenshot.save  browser.title<<"initial_load"<<".png"
 
 
 browser.element(:css => "#slick-slide01 > button[type=\"button\"]").click
